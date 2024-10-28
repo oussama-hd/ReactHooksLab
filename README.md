@@ -10,9 +10,3 @@ Welcome to **ReactHooksLab**! This project is a collection of reusable and pract
 - **Fully Documented**: Each hook and component includes detailed documentation, with inline comments for easy learning.
 - **Written in TypeScript** *(optional)*: Ensures type safety and scalability for large applications.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/reacthookslab.git
-   cd reacthookslab
